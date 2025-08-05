@@ -62,4 +62,5 @@ elif virat=="bowling":
         if player==AI:
             break
 else:
-    print("comatozze is a best pornstar")
+
+    print(" why are you doing this ")
